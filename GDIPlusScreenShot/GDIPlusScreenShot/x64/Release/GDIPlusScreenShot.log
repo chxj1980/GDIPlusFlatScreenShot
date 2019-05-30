@@ -1,0 +1,8 @@
+﻿  Source.c
+c:\users\shifat\source\repos\gdiplusscreenshot\gdiplusscreenshot\source.c(109): warning C4244: 'function': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+  Generating code
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GDIPlusScreenShot.vcxproj -> C:\Users\SHIFAT\source\repos\GDIPlusScreenShot\x64\Release\GDIPlusScreenShot.exe
